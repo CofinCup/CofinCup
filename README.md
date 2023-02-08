@@ -11,7 +11,7 @@
 - 🍩 I contributed code to: [NoneBot2](https://github.com/nonebot/nonebot2) ![](https://img.shields.io/github/stars/nonebot/nonebot2?style=social)
 
 - 🍮 Here's a serverless example that I run on Deta.sh (thanks to Aya): [Naifu_Capture](https://naifu.deta.dev) <br>
-*(It sometimes timeout due to design flaws...I'm trying to fix that)*
+*(It sometimes times out due to design flaws...I'm trying to fix that)*
 
 - 🍕 Personal project: [nonebot-plugin-todo-nlp](nonebot-plugin-todo-nlp)
 
