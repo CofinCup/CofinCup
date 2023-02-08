@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**CofinCup/CofinCup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm **CofinCup**
 
-Here are some ideas to get you started:
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CofinCup&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥪 I’m currently learning: Serverless, Esp32, Fastapi, Arch Linux
+
+- 🍩 I contributed code to: [NoneBot2](https://github.com/nonebot/nonebot2) ![](https://img.shields.io/github/stars/nonebot/nonebot2?style=social)
+
+- 🍮 Here's a serverless example that I run on Deta.sh (thanks to Aya): [Naifu_Capture](https://naifu.deta.dev) 
+*(It sometimes timeout due to design flaws...I'm trying to fix that)*
+
+- 🍕 Personal project: [nonebot-plugin-todo-nlp](nonebot-plugin-todo-nlp)
+
+## 🚉 **Developing Tools&Platforms**
+
+![](https://img.shields.io/badge/Server-Ubuntu-35bf5c?style=flat-square&logo=Ubuntu&logoColor=fff)
+![](https://img.shields.io/badge/Raspberry-Ubuntu-35bf5c?style=flat-square&logo=raspberrypi&logoColor=fff)
+![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows&logoColor=fff)
+![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
+
+## 🌟 **My Skills**  
+
+![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-3D_Modeling-55AAAA?style=flat-square)
+
