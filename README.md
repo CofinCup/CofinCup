@@ -10,17 +10,17 @@
 
 - 🍩 I contributed code to: [NoneBot2](https://github.com/nonebot/nonebot2) ![](https://img.shields.io/github/stars/nonebot/nonebot2?style=social)
 
-- 🍮 Here's a serverless example that I run on Deta.sh (thanks to Aya): [Naifu_Capture](https://naifu.deta.dev) <br>
+- 🍮 Here's a serverless script that I run on Deta.sh (thanks to Aya): [Naifu_Capture](https://naifu.deta.dev) <br>
 *(It sometimes times out due to design flaws...I'm trying to fix that)*
 
 - 🍕 Personal project: [nonebot-plugin-todo-nlp](nonebot-plugin-todo-nlp)
 
-## 🚉 **Developing Tools&Platforms**
+## 🚉 **Platforms**
 
 ![](https://img.shields.io/badge/Server-Ubuntu-35bf5c?style=flat-square&logo=Ubuntu&logoColor=fff)
 ![](https://img.shields.io/badge/Raspberry-Ubuntu-35bf5c?style=flat-square&logo=raspberrypi&logoColor=fff)
+![](https://img.shields.io/badge/wsl-Ubuntu-35bf5c?style=flat-square&logo=Ubuntu&logoColor=fff)
 ![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows&logoColor=fff)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
 
 ## 🌟 **My Skills**  
 
