@@ -3,7 +3,7 @@
 ## I'm **CofinCup**
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CofinCup&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+  <img align="right" src="https://github-readme-stats-cofincup.vercel.app/api?username=CofinCup&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
 - 🥪 I’m currently learning: Serverless, Esp32, Fastapi, Arch Linux
