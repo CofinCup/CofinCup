@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/Raspberry-Ubuntu-35bf5c?style=flat-square&logo=raspberrypi&logoColor=fff)
 ![](https://img.shields.io/badge/wsl-Ubuntu-35bf5c?style=flat-square&logo=Ubuntu&logoColor=fff)
 ![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows&logoColor=fff)
+![](https://img.shields.io/badge/NUC-Arch-0078d6?style=flat-square&logo=ArchLinux&logoColor=fff)
 
 ## 🌟 **My Skills**  
 
