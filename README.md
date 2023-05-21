@@ -11,17 +11,17 @@
 - 🍩 I contributed to: [NoneBot2](https://github.com/nonebot/nonebot2) ![](https://img.shields.io/github/stars/nonebot/nonebot2?style=social)
 
 - 🍮 Here's a serverless script that I run on Deta.sh (thanks to Aya): [Naifu_Capture](https://naifu.deta.dev) <br>
-*(It sometimes times out due to design flaws...I'm trying to fix that)*
+*(It sometimes times out due to design flaws...I'm trying to fix that)* *(Update:script failed because of deta.sh update, planning to rebuild.)*
 
 - 🍕 Personal project: [nonebot-plugin-todo-nlp](nonebot-plugin-todo-nlp)
 
 ## 🚉 **Platforms**
 
-![](https://img.shields.io/badge/Server-Ubuntu-35bf5c?style=flat-square&logo=Ubuntu&logoColor=fff)
-![](https://img.shields.io/badge/Raspberry-Ubuntu-35bf5c?style=flat-square&logo=raspberrypi&logoColor=fff)
-![](https://img.shields.io/badge/wsl-Ubuntu-35bf5c?style=flat-square&logo=Ubuntu&logoColor=fff)
-![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/NUC-Arch-0078d6?style=flat-square&logo=ArchLinux&logoColor=fff)
+![](https://img.shields.io/badge/Server-Ubuntu-0078d6?style=flat-square&logo=Ubuntu&logoColor=fff)
+![](https://img.shields.io/badge/Raspberry-Ubuntu-0078d6?style=flat-square&logo=raspberrypi&logoColor=fff)
+![](https://img.shields.io/badge/wsl-Ubuntu-0078d6?style=flat-square&logo=Ubuntu&logoColor=fff)
+![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows&logoColor=fff)
 
 ## 🌟 **My Skills**  
 
