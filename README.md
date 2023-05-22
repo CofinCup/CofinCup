@@ -8,7 +8,9 @@
 
 - 🥪 I’m currently learning: Serverless, Esp32, Fastapi, Arch Linux
 
-- 🍩 I contributed to: [NoneBot2](https://github.com/nonebot/nonebot2) ![](https://img.shields.io/github/stars/nonebot/nonebot2?style=social)
+- 🍩 I contributed to: 
+  - [NoneBot2](https://github.com/nonebot/nonebot2) ![](https://img.shields.io/github/stars/nonebot/nonebot2?style=social) 
+  - [X-Knob](https://github.com/SmallPond/X-Knob) ![](https://img.shields.io/github/stars/SmallPond/X-Knob?style=social)
 
 - 🍮 Here's a serverless script that I run on Deta.sh (thanks to Aya): [Naifu_Capture](https://naifu.deta.dev) <br>
 *(It sometimes times out due to design flaws...I'm trying to fix that)* ***(Update:script failed because of deta.sh update, planning to rebuild.)***
