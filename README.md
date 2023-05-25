@@ -1,7 +1,6 @@
 # Hi there 🍡
 
 ## I'm **CofinCup**
-> Have been using a Escpos printer to print TODO lists since 2021.
 
 <a href="#">
   <img align="right" src="https://github-readme-stats-cofincup.vercel.app/api?username=CofinCup&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
@@ -21,7 +20,7 @@
 - 🍮 Here's a serverless script that I run on Deta.sh (thanks to Aya): [Naifu_Capture](https://naifu.deta.dev)<br>
 ***(Update:script failed because of deta.sh update, planning to rebuild.)***
 
-- 🥪 My bore.pub service address: [cofincup.tech](https://github.com/ekzhang/bore)
+- 🥪 My bore.pub service address: cofincup.tech (see [bore](https://github.com/ekzhang/bore))
 
 
 ## 🚉 **Platforms**
