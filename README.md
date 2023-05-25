@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 🍡
 
 ## I'm **CofinCup**
 > Have been using a Escpos printer to print TODO lists since 2021.
