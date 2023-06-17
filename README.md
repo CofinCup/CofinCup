@@ -1,10 +1,12 @@
 # Hi there 🍡
 
-## I'm **CofinCup**
+## I'm **CofinCup** 
 
 <a href="#">
   <img align="right" src="https://github-readme-stats-cofincup.vercel.app/api?username=CofinCup&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
+
+-  ***If no Github Status element here👉, try refreshing this page***
 
 - 🥪 I’m currently learning: Serverless, Esp32, Arch Linux
 
