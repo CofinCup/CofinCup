@@ -14,7 +14,7 @@
   - [NoneBot2](https://github.com/nonebot/nonebot2) ![](https://img.shields.io/github/stars/nonebot/nonebot2?style=social) 
   - [X-Knob](https://github.com/SmallPond/X-Knob) ![](https://img.shields.io/github/stars/SmallPond/X-Knob?style=social)
 
-- 🍕 Personal project: [nonebot-plugin-todo-nlp](nonebot-plugin-todo-nlp)
+- 🍕 Personal project: [nonebot-plugin-todo-nlp](nonebot-plugin-todo-nlp) Download Count 5K+ last year(source: Google Big Query)
 
 - 🥖 AUR package(s) that I maintain: [cofincup_pomo](https://aur.archlinux.org/packages/cofincup-pomo)
 
